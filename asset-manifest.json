@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ElisabethRed/static/js/main.08581591.chunk.js",
+    "main.js.map": "/ElisabethRed/static/js/main.08581591.chunk.js.map",
+    "runtime-main.js": "/ElisabethRed/static/js/runtime-main.9f9aab9e.js",
+    "runtime-main.js.map": "/ElisabethRed/static/js/runtime-main.9f9aab9e.js.map",
+    "static/js/2.9a08ba78.chunk.js": "/ElisabethRed/static/js/2.9a08ba78.chunk.js",
+    "static/js/2.9a08ba78.chunk.js.map": "/ElisabethRed/static/js/2.9a08ba78.chunk.js.map",
+    "index.html": "/ElisabethRed/index.html",
+    "precache-manifest.7a66c09df40a3ecb764e4366c67d5bca.js": "/ElisabethRed/precache-manifest.7a66c09df40a3ecb764e4366c67d5bca.js",
+    "service-worker.js": "/ElisabethRed/service-worker.js",
+    "static/js/2.9a08ba78.chunk.js.LICENSE.txt": "/ElisabethRed/static/js/2.9a08ba78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f9aab9e.js",
+    "static/js/2.9a08ba78.chunk.js",
+    "static/js/main.08581591.chunk.js"
+  ]
+}
