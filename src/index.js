@@ -4,7 +4,7 @@ import App from './App';
 
 ReactDOM.render(
   
-    <App />
+    <App /> //DON'T FORGET “Created my free logo at LogoMakr.com”
   ,
   document.getElementById('root')
 );

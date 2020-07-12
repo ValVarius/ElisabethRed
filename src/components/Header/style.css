@@ -1,5 +1,8 @@
-.navbar {
+.navbar li a{
     color: black;
+}
+.navbar{
+    margin-bottom: 1%;
 }
 /* #navbarlogo{
 

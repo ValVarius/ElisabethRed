@@ -1,0 +1,12 @@
+
+#vetro{
+    width: 70%;
+}
+.row{
+    margin-bottom: 4%;
+}
+.forsale:hover{
+    transition: transform .5s ease;
+    transform: scale(1.25);
+    overflow: hidden;
+}
