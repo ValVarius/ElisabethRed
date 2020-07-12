@@ -1,0 +1,13 @@
+.navbar li a{
+    color: black;
+}
+.navbar{
+    margin-bottom: 1%;
+}
+/* #navbarlogo{
+
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important; 
+    display: block;
+} */
