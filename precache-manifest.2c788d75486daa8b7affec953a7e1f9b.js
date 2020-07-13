@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd031286737049ec2f0001c7be36652d",
+    "revision": "1b661619a8bab706eb5bbc02a6504dc2",
     "url": "/ElisabethRed/index.html"
   },
   {
-    "revision": "fe2d0174a9b2dc37cf2a",
+    "revision": "d92e4cef18b9201ea0aa",
     "url": "/ElisabethRed/static/css/main.6e3fa028.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ElisabethRed/static/js/2.22431738.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe2d0174a9b2dc37cf2a",
-    "url": "/ElisabethRed/static/js/main.ad232adf.chunk.js"
+    "revision": "d92e4cef18b9201ea0aa",
+    "url": "/ElisabethRed/static/js/main.53cf04e0.chunk.js"
   },
   {
     "revision": "50215a72eae1fbe4b5b9",
