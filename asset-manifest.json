@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.js": "/ElisabethRed/static/js/main.08581591.chunk.js",
-    "main.js.map": "/ElisabethRed/static/js/main.08581591.chunk.js.map",
+    "main.css": "/ElisabethRed/static/css/main.6e3fa028.chunk.css",
+    "main.js": "/ElisabethRed/static/js/main.ad232adf.chunk.js",
+    "main.js.map": "/ElisabethRed/static/js/main.ad232adf.chunk.js.map",
     "runtime-main.js": "/ElisabethRed/static/js/runtime-main.9f9aab9e.js",
     "runtime-main.js.map": "/ElisabethRed/static/js/runtime-main.9f9aab9e.js.map",
-    "static/js/2.9a08ba78.chunk.js": "/ElisabethRed/static/js/2.9a08ba78.chunk.js",
-    "static/js/2.9a08ba78.chunk.js.map": "/ElisabethRed/static/js/2.9a08ba78.chunk.js.map",
+    "static/js/2.22431738.chunk.js": "/ElisabethRed/static/js/2.22431738.chunk.js",
+    "static/js/2.22431738.chunk.js.map": "/ElisabethRed/static/js/2.22431738.chunk.js.map",
     "index.html": "/ElisabethRed/index.html",
-    "precache-manifest.7a66c09df40a3ecb764e4366c67d5bca.js": "/ElisabethRed/precache-manifest.7a66c09df40a3ecb764e4366c67d5bca.js",
+    "precache-manifest.13aec9f47c557ccd9b2ccdc14fb36e36.js": "/ElisabethRed/precache-manifest.13aec9f47c557ccd9b2ccdc14fb36e36.js",
     "service-worker.js": "/ElisabethRed/service-worker.js",
-    "static/js/2.9a08ba78.chunk.js.LICENSE.txt": "/ElisabethRed/static/js/2.9a08ba78.chunk.js.LICENSE.txt"
+    "static/css/main.6e3fa028.chunk.css.map": "/ElisabethRed/static/css/main.6e3fa028.chunk.css.map",
+    "static/js/2.22431738.chunk.js.LICENSE.txt": "/ElisabethRed/static/js/2.22431738.chunk.js.LICENSE.txt",
+    "static/media/aqua.jpg": "/ElisabethRed/static/media/aqua.cee95617.jpg",
+    "static/media/blue.jpg": "/ElisabethRed/static/media/blue.8da3c25c.jpg",
+    "static/media/dots.jpg": "/ElisabethRed/static/media/dots.406f0c0d.jpg",
+    "static/media/gold.jpg": "/ElisabethRed/static/media/gold.5ed30d1d.jpg",
+    "static/media/green.jpg": "/ElisabethRed/static/media/green.a88cb81c.jpg",
+    "static/media/purple.jpg": "/ElisabethRed/static/media/purple.00ee8390.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f9aab9e.js",
-    "static/js/2.9a08ba78.chunk.js",
-    "static/js/main.08581591.chunk.js"
+    "static/js/2.22431738.chunk.js",
+    "static/css/main.6e3fa028.chunk.css",
+    "static/js/main.ad232adf.chunk.js"
   ]
 }
